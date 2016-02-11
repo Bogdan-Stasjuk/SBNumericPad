@@ -76,7 +76,7 @@ This class has been tested back to iOS 6.0.
 Installation
 ============
 
-__Cocoapods__: `pod 'BSNumPad'`<br />
+__CocoaPods__: `pod 'BSNumPad'`<br />
 __Manual__: Copy the __BSNumPad__ folder in your project<br />
 
 Import header 
